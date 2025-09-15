@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site/testvideo20220925a_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/test-site/testvideo20220925a_360p_16_9.mp4
+file_size: 87398
 file_type: video/mp4
 image_metadata:
   caption: ''

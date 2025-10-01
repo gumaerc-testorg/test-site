@@ -32,9 +32,9 @@ True or False? The Poisson distribution is a special case of the exponential dis
 
 Consider a \\(\mathcal{B}\\)
 
-Consider a *<sup>B</sup>*<sup>(</sup>*<sup>n,p</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20B%7D(n%2Cp)#0) and a *<sup>H</sup>*(*<sup>A, B, n</sup>*) [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20H%7D(A%2CB%2Cn)#0) where
+Consider a *<sup>B</sup>*<sup>(</sup>*<sup>n,p</sup>*<sup>)</sup> {{% resource_link "0df09b39-a7a0-48ec-8077-d160f05da2fa" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)" %}} and a *<sup>H</sup>*(*<sup>A, B, n</sup>*) {{% resource_link "8e98a650-be33-4548-b975-dd8fcb679d6f" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)" %}} where
 
-[<sup>![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)</sup>](https://www.codecogs.com/eqnedit.php?latex=p%20%3D%20A%2F(A%2BB).#0)*<sup>p</sup>*<sup>\=</sup> *<sup>A</sup>*<sup>/(</sup>*<sup>A + B</sup>*<sup>)</sup>. Which of the following statements is true? Select all that apply.
+{{% resource_link "21bfff0a-0542-4e49-8d52-37b56d5d7111" "<sup>![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)</sup>" %}}*<sup>p</sup>*<sup>\=</sup> *<sup>A</sup>*<sup>/(</sup>*<sup>A + B</sup>*<sup>)</sup>. Which of the following statements is true? Select all that apply.
 
 1. The variance of the binomial is always smaller than the variance of the hypergeometric.
 2. The variance of the hypergeometric is always smaller than or equal to the variance of the binomial.
@@ -80,15 +80,15 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 0.0/1.0 point (graded)
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is *<sup>S</sup>*<sup>/32 +</sup> *<sup>D</sup>*<sup>/ 40 + 0.1</sup>*<sup>M</sup>.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a  uniform distribution
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is *<sup>S</sup>*<sup>/32 +</sup> *<sup>D</sup>*<sup>/ 40 + 0.1</sup>*<sup>M</sup>.* {{% resource_link "6362e9b5-e264-4e42-8dce-8af54775ceaf" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)" %}}Suppose also that S follows a  uniform distribution
 
-*<sup>U</sup>* <sup>(1, 15)</sup>[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif)](https://www.codecogs.com/eqnedit.php?latex=U(1%2C15)#0) ; D follows an exponential distribution <sup>exp(0.05)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Cexp(0.05)#0); and 80% of offenders are male.
+*<sup>U</sup>* <sup>(1, 15)</sup>{{% resource_link "705210c8-2877-4b34-8628-0bc2d5403e72" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif)" %}} ; D follows an exponential distribution <sup>exp(0.05)</sup> {{% resource_link "f16b9b89-1e08-4494-b525-5bc2ac84a90a" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)" %}}; and 80% of offenders are male.
 
 What is the expected recidivism rate?
 
 ## Long Question 2—Prof. Ellison's Commute
 
-Sara Elison needs to commute to MIT every day. She currently lives near campus, but is considering moving to a place near Fenway Park (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a*<sup>N</sup>* <sup>(</sup>*<sup>20, 9</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(20%2C9)#0) (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and *<sup>N</sup>*<sup>(12,4)</sup>[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(12%2C4)#0) (where 12 is the average commute and 4 is the variance) on other days.
+Sara Elison needs to commute to MIT every day. She currently lives near campus, but is considering moving to a place near Fenway Park (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a*<sup>N</sup>* <sup>(</sup>*<sup>20, 9</sup>*<sup>)</sup> {{% resource_link "85715bda-167c-4d82-a518-86d0e32348c8" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)" %}} (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and *<sup>N</sup>*<sup>(12,4)</sup>{{% resource_link "413fb768-d381-47d4-ad2e-d5b8ed0e3acd" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)" %}} (where 12 is the average commute and 4 is the variance) on other days.
 
 ### Question 8
 
@@ -155,7 +155,7 @@ You have access to information from a child health survey, which covers  1,000 
 
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
-Denote <sup>ӮT = 0.80</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_T%7D%3D0.80#0)the sample average immunization rate in the treatment group, <sup>ӮC = 0.58</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
+Denote <sup>ӮT = 0.80</sup> {{% resource_link "d9bcac1f-d101-4cb3-bedc-ccf669629590" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif)" %}}the sample average immunization rate in the treatment group, <sup>ӮC = 0.58</sup> {{% resource_link "a05921f8-3b08-4db8-9436-57115c236c47" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)" %}} the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\){{% resource_link "58db8a39-51d8-497c-a4c9-88cf18694575" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)" %}} the estimated variance in the control group.
 
 What is the collaborator's estimate of the average treatment effect?
 
@@ -201,7 +201,7 @@ She runs the following regression:
 
  
 
-## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
+## {{% resource_link "b647b13f-f583-4a69-9c23-1549ad58f5aa" "![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)" %}}Question 17
 
 0.0/1.0 point (graded)
 
@@ -219,7 +219,7 @@ True or False? Instead of including the TEA dummy, she could include one dummy f
 
 ## Long Question 6 - More on Flowers in China
 
-[Download the data set](https://studio.mitxonline.mit.edu/assets/courseware/v1/bbf68069ed2763d0bf83506acd468a88/asset-v1:MITxT+14.310x+3T2021+type@asset+block/qian.csv) used in Qian's paper (qian.csv). The data contains the following variables:
+{{% resource_link "ac75cd16-89ad-48b7-ad58-cb48e1199975" "Download the data set" %}} used in Qian's paper (qian.csv). The data contains the following variables:
 
 ●     **admin**: an id for each region in China.
 
